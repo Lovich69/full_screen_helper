@@ -7,6 +7,12 @@ environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.0.0"
 
+plugin:
+  platforms:
+    android:
+      package: com.example.full_screen_helper
+      pluginClass: FullScreenHelperPlugin
+
 dependencies:
   flutter:
     sdk: flutter
