@@ -1,6 +1,6 @@
 name: full_screen_helper
 description: A Flutter package to handle full screen intent notifications for ride-hailing apps.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Lovich69/full_screen_helper # Required!
 
 environment:
